@@ -1,0 +1,15 @@
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\bin\Debug\net7.0\Adapter_Exercicio.exe
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\bin\Debug\net7.0\Adapter_Exercicio.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\bin\Debug\net7.0\Adapter_Exercicio.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\bin\Debug\net7.0\Adapter_Exercicio.dll
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\bin\Debug\net7.0\Adapter_Exercicio.pdb
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\obj\Debug\net7.0\Adapter_Exercicio.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\obj\Debug\net7.0\Adapter_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\obj\Debug\net7.0\Adapter_Exercicio.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\obj\Debug\net7.0\Adapter_Exercicio.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\obj\Debug\net7.0\Adapter_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\obj\Debug\net7.0\Adapter_Exercicio.dll
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\obj\Debug\net7.0\refint\Adapter_Exercicio.dll
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\obj\Debug\net7.0\Adapter_Exercicio.pdb
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\obj\Debug\net7.0\Adapter_Exercicio.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Adapter_Exercicio\Adapter_Exercicio\obj\Debug\net7.0\ref\Adapter_Exercicio.dll
